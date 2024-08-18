@@ -1,0 +1,6 @@
+###### Requirements without Version Specifiers ######`
+pandas
+matplotlib
+psutil
+runipy
+###### Requirements with Version Specifiers ######`
